@@ -1,0 +1,2 @@
+class MaxMinPrakiraan(Exception):
+    pass
