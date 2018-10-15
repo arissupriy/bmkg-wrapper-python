@@ -9,6 +9,13 @@ Versi ini menyediakan API untuk pengambilan data sebagai berikut :
 - Cuaca Prakiraan Bandara (http://www.bmkg.go.id/cuaca/prakiraan-cuaca-bandara.bmkg?s={})
 
 
+## Penggunaan
+
+### Install
+
+``` pip install bmkg-wrapper ```
+
+
 Data akan selalu di perbarui setiap saat.
 
 

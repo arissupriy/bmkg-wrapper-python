@@ -1,2 +1,8 @@
 *.pyc
 *.swp
+
+.vscode/
+venv/
+bmkg_wrapper.egg-info/
+build/
+dist/
