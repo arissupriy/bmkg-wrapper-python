@@ -1,7 +1,7 @@
 from bmkg.req import simple_get
 from bmkg.url import CUACA_URL
 from bs4 import BeautifulSoup as bs
-import urlparse
+from urllib.parse import urlparse
 import os
 import json
 
